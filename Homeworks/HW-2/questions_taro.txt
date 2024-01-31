@@ -3,6 +3,7 @@ ls [filepath] - list the contents of your current directory (or that of [filepat
 cd [filepath] - change your directory to [filepath]
 mv [filepath1] [filepath2] - move [filepath1] to [filepath2]. (This can also be used to rename a file.)
 mkdir [filepath] - Make a new directory with name [filepath]
+My computer terminal language is bash.
 
 2. Do you have pets? What kind?
 I don't have any ;-;
@@ -18,3 +19,4 @@ A file containing text that python reads (i.e. a python file)
 
 
 Note: In this assignment I cloned the given repository in the repository I created, since I thought it simplified the process of copying this questions file. In hindsight I probably should have cloned the repository in a different directory. As a result I've removed the homework2 repository from my computer, and just kept the questions file, just so that the homework2 repository isn't committed to my own repo when I push it.
+Edit: I forgot to answer the last part of the first question (asking what the language of the terminal is), hence my resubmission.
