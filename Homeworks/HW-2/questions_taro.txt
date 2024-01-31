@@ -1,0 +1,20 @@
+1. What are 3-5 (or more) commands that you can use on terminal and what do they do? What language is your computer terminal in?
+ls [filepath] - list the contents of your current directory (or that of [filepath])
+cd [filepath] - change your directory to [filepath]
+mv [filepath1] [filepath2] - move [filepath1] to [filepath2]. (This can also be used to rename a file.)
+mkdir [filepath] - Make a new directory with name [filepath]
+
+2. Do you have pets? What kind?
+I don't have any ;-;
+
+3. If you run across an error, what would your first course of action be?
+Read the error message; and if I don't understand it, look it up
+
+4. Funniest thing that happened to you in high school.
+My friends tricked me into eating snacks that were several years expired. (I didn't realize until one cracker in - and by then it was too late. I don't think my stomach has forgiven me since.)
+
+5. What is a python script? (Keep it simple)
+A file containing text that python reads (i.e. a python file)
+
+
+Note: In this assignment I cloned the given repository in the repository I created, since I thought it simplified the process of copying this questions file. In hindsight I probably should have cloned the repository in a different directory. As a result I've removed the homework2 repository from my computer, and just kept the questions file, just so that the homework2 repository isn't committed to my own repo when I push it.
