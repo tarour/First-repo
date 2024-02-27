@@ -11,6 +11,9 @@ def removeDuplicates(lis):
             
     return lis
 
+# This part of the assignment is by far the one I made the most errors in. Namely, I encountered an indexing error in the while loop. This occurred because i ranges from 0 to len(lis), but the len(lis) value does not update even if I remove elements from lis. It took me an embarrasingly long time to write the if statement breaking the loop once it surpasses the index range; since the i == len(lis) statement occurs in the for loop, the len(lis) value is updated for each iteration, so we can use it to reliably end the loop.
+
+
 print(removeDuplicates([1,1,2,3,4,4]))
 
 
