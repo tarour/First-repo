@@ -49,7 +49,7 @@ plt.imshow(T,origin='lower',extent=[1,10,10,30],aspect='auto')
 
 plt.xlabel('Pressure ' r'$(bar)$')
 plt.ylabel('Volume ' r'$(liters)$')
-plt.title('Van Der Waals Model Temperature Model')
+plt.title('Van Der Waals Temperature Model')
 plt.colorbar(label='Temperature ' r'$(Kelvin)$')
 
 plt.show()
